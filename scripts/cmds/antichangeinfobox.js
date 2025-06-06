@@ -60,8 +60,8 @@ module.exports = {
 			antiChangeEmojiOff: "Turn off anti change emoji box chat",
 			antiChangeAvatarAlreadyOn: "Your box chat is currently on anti change avatar",
 			antiChangeAvatarAlreadyOnButMissingAvt: "Your box chat is currently on anti change avatar but your box chat has not set avatar",
-			antiChangeNameAlreadyOn: "Your box chat is currently on anti change name",
-			antiChangeNicknameAlreadyOn: "Your box chat is currently on anti change nickname",
+			antiChangeNameAlreadyOn: "B0T K9 LODA ATK9 H91 N9ME M3 TU KY9 T3R9 B99P B CHNG3 NH1 K9RR SKT9",
+			antiChangeNicknameAlreadyOn: "M3R9 L0D9 CHUS TU :V TERE B9SS KI B99T NHII CHNG3 KRN9",
 			antiChangeThemeAlreadyOn: "Your box chat is currently on anti change theme",
 			antiChangeEmojiAlreadyOn: "Your box chat is currently on anti change emoji"
 		}
